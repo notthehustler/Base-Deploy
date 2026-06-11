@@ -12,9 +12,13 @@ After set up an EVM wallet, open remix.ethereum.org and log n with your wallet.
 
 Sign the message that pop up in your screen
 
-And this is step by step after login:
+## And this is step by step after login:
 a. at the left bar create a new file and name it (exp: HelloBase.sol), then enter!
+
 b. write a code or copas this:
+
+
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -26,3 +30,9 @@ contract HelloBase {
         owner = msg.sender;
     }
 }
+```
+
+c.after input the code on the space, click COMPILE or go to compile menu in the right bar, then click COMPILE.
+if its work there you go!
+
+d. 
