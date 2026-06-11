@@ -32,7 +32,20 @@ contract HelloBase {
 }
 ```
 
-c.after input the code on the space, click COMPILE or go to compile menu in the right bar, then click COMPILE.
-if its work there you go!
+c. after input the code on the space, click COMPILE or go to compile menu in the left bar, then click COMPILE.
+if its work or green checked, there you go!
 
-d. 
+d. go to menu Deploy and Run in the left sidebar
+
+e. in the "Environment" menu → click dropdown → choose EVM wallet or Wallet Connect → choose wallet that you set it up back then
+
+f. click CONNECT in the mesage that will poping up from your wallet
+
+g. then click DEPLOY!!! 
+
+h. this is the moment that you wait: sign confirmation message from your wallet to pay gas fee and confirmation
+
+i. and last, yeah, if it works then fuckin CONGRATS!!!!!! hahahahaha juh
+
+## Other Code
+i will put other code that you can deploy on Remix
